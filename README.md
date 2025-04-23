@@ -6,7 +6,7 @@
 
 Файл data.ipynb содержит загрузку и обработку данных для обучения моделей.
 
-Наблюдаются проблемы с отображением файлов, скопированных из Colab.
+### Наблюдаются проблемы с отображением файлов, скопированных из Colab.
 
 Код для bi_encoders_with_metrics.ipynb: https://colab.research.google.com/drive/1FMHqCzXNmxm_PLBRlzxwQ3seIjmT6kIu
 
